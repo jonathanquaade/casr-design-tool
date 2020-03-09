@@ -158,27 +158,27 @@ function resetState() {
 
   sh.text = "CREATE A \nPOSTER HERE",
     // sh.text = "DESIGN IN \nTHE AGE OF \nAUTOMATION",
-    sh.fontSize = 225,
+    sh.fontSize = 125,
     sh.lineHeight = 0.742,
     sh.textX = 8.75,
-    sh.textY = 7.5
+    sh.textY = 7.5,
 
-  st.text = "Some multi-\nline text here",
-    st.fontSize = 16,
+    st.text = "Some multi-\nline text here",
+    st.fontSize = 66,
     st.lineHeight = 1,
     st.textX = 437.5,
-    st.textY = 763.75
+    st.textY = 763.75,
 
-  s.metaInfosX = 10,
+    s.metaInfosX = 10,
     s.metaInfosY = 742,
     s.image = "9.jpg",
     s.imageX = -23.75,
     s.imageY = -151.25,
     s.width = 1122,
     s.gridCols = 200,
-    s.maxSize = 7.3
+    s.maxSize = 7.3,
 
-  sc.background = "#f1f1f1",
+    sc.background = "#f1f1f1",
     sc.text = "88FC00",
     sc.image = "#2103A8"
 
