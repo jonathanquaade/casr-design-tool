@@ -1,5 +1,5 @@
 //[![INSERT YOUR GRAPHIC HERE](url)]()
 
-# Campaign Against Sex Robots - Design Tool
+# CASR - Design Tool
 
-> Design tool development for Campaign Against Sex Robots
+> Design tool for Campaign Against Sex Robots
