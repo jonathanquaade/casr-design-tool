@@ -516,10 +516,10 @@ function buildUI() {
 
   <div class="gui-group">
 
-  <h4>CASR Generative Poster Tool BETA </h4>
+  <h4>CASR Generative Poster Tool [ALPHA]</h4>
 
   <p>March 2020<br>
-  Version 0.12
+  This product is still in development and not production ready 
   </p>
   </div>
 
