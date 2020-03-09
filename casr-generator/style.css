@@ -1,7 +1,17 @@
+@font-face {
+  font-family: "Activist";
+  src: url("../casr-poster-tool/assets/fonts-primary/Activist.otf");
+  font-weight: normal;
+}
 html, body {
   margin: 0;
   padding: 0;
 }
 canvas {
   display: block;
+}
+
+p {
+  color: blue;
+  font-family: 'Activist', sans-serif;
 }
