@@ -519,7 +519,8 @@ function buildUI() {
   <h4>CASR Generative Poster Tool [ALPHA]</h4>
 
   <p>March 2020<br>
-  This product is still in development and not production ready 
+  This product is still in development and meant as a proof of concept. <br>
+  Inspired by: Tim Roedenbroeker
   </p>
   </div>
 
